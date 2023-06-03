@@ -97,3 +97,21 @@
 2023-05-29 20:46:03  INFO  Log:16 - ******************************
 2023-05-29 20:46:03  INFO  Log:17 - ******************************
 2023-05-29 20:46:03  INFO  Log:18 - *********This test case is finished********
+2023-06-02 21:24:50  INFO  Log:10 - ******************************
+2023-06-02 21:24:50  INFO  Log:11 - ******************************
+2023-06-02 21:24:50  INFO  Log:12 - *********This is the beginning of my test case********
+2023-06-02 21:24:50  INFO  Log:22 - My test case is executing right now
+2023-06-02 21:24:50  INFO  Log:26 - My test case might have some trivial issues
+2023-06-02 21:24:57  INFO  Log:22 - This test case is about to get completed
+2023-06-02 21:24:57  INFO  Log:16 - ******************************
+2023-06-02 21:24:57  INFO  Log:17 - ******************************
+2023-06-02 21:24:57  INFO  Log:18 - *********This test case is finished********
+2023-06-02 21:24:58  INFO  Log:10 - ******************************
+2023-06-02 21:24:58  INFO  Log:11 - ******************************
+2023-06-02 21:24:58  INFO  Log:12 - *********This is the beginning of my test case********
+2023-06-02 21:24:58  INFO  Log:22 - My test case is executing right now
+2023-06-02 21:24:58  INFO  Log:26 - My test case might have some trivial issues
+2023-06-02 21:25:00  INFO  Log:22 - This test case is about to get completed
+2023-06-02 21:25:00  INFO  Log:16 - ******************************
+2023-06-02 21:25:00  INFO  Log:17 - ******************************
+2023-06-02 21:25:00  INFO  Log:18 - *********This test case is finished********
